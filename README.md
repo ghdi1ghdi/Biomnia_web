@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Biomnia_web
+https://biomnia.netlify.app/
+BIOMNIA는 미생물을 먹는 것을 통해 아이들의 건강을 책임지는 서비스입니다.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
