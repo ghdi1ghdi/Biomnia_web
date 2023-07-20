@@ -17,8 +17,8 @@ const FeatureComponent = () => {
             <Col md="7" className="text-center">
               <h1 className="title font-bold">BIOMNIA?</h1>
               <h6 className="subtitle">
-                BIOMNIA는 미생물을 먹는 것을 통해 아이들의 건강을 책임지는
-                서비스입니다.
+                BIOMNIA는 맞춤형 마이크로바이옴(microbiome) 데이터를 활용한
+                임산부 및 영유아 부모를 위한 식자재 구독 서비스입니다.
               </h6>
             </Col>
           </Row>
@@ -32,7 +32,7 @@ const FeatureComponent = () => {
                 Feature 1
               </span>
               <h2 className="title">
-                What is MicroBiome? <br></br>(마이크로바이움이란?)
+                What is MicroBiome? <br></br>(마이크로바이옴이란?)
               </h2>
               <h6 className="subtitle">
                 마이크로 바이옴(Microbiome, 미생물총)이란 체내의 미생물이
