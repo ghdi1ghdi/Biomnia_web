@@ -10,7 +10,7 @@ const PageTable = () => {
             <Col md="7" className="text-center">
               <h1 className="title font-bold">Our Team</h1>
               <h6 className="subtitle">
-                제 5회 대학 연합 창업 캠프 뿅뿅 창업 오락실 3조 Biospectrum
+                제 5회 대학 연합 창업 캠프 뿅뿅 창업 오락실 3조 <br></br>Biospectrum
                 팀원들을 소개합니다.
               </h6>
             </Col>
