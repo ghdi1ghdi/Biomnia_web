@@ -92,7 +92,7 @@ const PageTable = () => {
                     <td>멘토님</td>
                     <td>@Sujin</td>
                     <td>
-                      <span className="label label-megna">Mento</span>{" "}
+                      <span className="label label-megna">Mentor</span>{" "}
                     </td>
                   </tr>
                 </tbody>
