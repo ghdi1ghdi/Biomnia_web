@@ -4,7 +4,7 @@ import { Container, Row, Col, Table } from "reactstrap";
 const PageTable = () => {
   return (
     <div>
-      <div className="spacer" id="table-component">
+      <div className="spacer bg-light" id="table-component">
         <Container>
           <Row className="justify-content-center">
             <Col md="7" className="text-center">
