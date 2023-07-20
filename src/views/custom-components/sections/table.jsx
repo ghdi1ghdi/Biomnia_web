@@ -10,9 +10,8 @@ const PageTable = () => {
             <Col md="7" className="text-center">
               <h1 className="title font-bold">Our Team</h1>
               <h6 className="subtitle">
-                Here you can check Demos we created based on WrapKit. Its quite
-                easy to Create your own dream website &amp; dashboard in
-                No-time.
+                제 5회 대학 연합 창업 캠프 뿅뿅 창업 오락실 3조 Biospectrum
+                팀원들을 소개합니다.
               </h6>
             </Col>
           </Row>
