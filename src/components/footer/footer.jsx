@@ -30,7 +30,7 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h5 className="m-b-20">Social</h5>
             <div className="round-social light">
-              <a href="#" className="link">
+              {/* <a href="#" className="link">
                 <i className="fa fa-facebook"></i>
               </a>
               <a href="#" className="link">
@@ -41,8 +41,11 @@ const Footer = () => {
               </a>
               <a href="#" className="link">
                 <i className="fa fa-youtube-play"></i>
-              </a>
-              <a href="#" className="link">
+              </a> */}
+              <a
+                href="https://www.instagram.com/biospectrum2023/"
+                className="link"
+              >
                 <i className="fa fa-instagram"></i>
               </a>
             </div>

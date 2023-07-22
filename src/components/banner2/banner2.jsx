@@ -12,12 +12,12 @@ const HeaderBanner2 = () => {
             <h4 className="subtitle font-light">
               영유아의 초기 마이크로바이옴 형성을 돕는 팀
             </h4>
-            <Link
+            {/* <Link
               to="/#coming"
               className="btn btn-info-gradiant m-r-20 btn-md m-t-30 font-14"
             >
               Download Now
-            </Link>
+            </Link> */}
           </Col>
         </Row>
       </Container>

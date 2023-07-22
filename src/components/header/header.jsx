@@ -53,10 +53,10 @@ const Header = () => {
               </Nav>
               <div className="act-buttons">
                 <Link
-                  to="/#coming"
+                  to="https://biomnia.netlify.app/home/app"
                   className="btn btn-success-gradiant font-14"
                 >
-                  Download Now
+                  Go to Biomnia
                 </Link>
               </div>
             </Collapse>

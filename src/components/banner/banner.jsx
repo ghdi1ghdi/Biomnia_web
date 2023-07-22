@@ -14,10 +14,10 @@ const HeaderBanner = () => {
               <br /> For my child’s future, I eat microbes
             </h4>
             <Link
-              to="/#coming"
+              to="https://biomnia.netlify.app/home/app"
               className="btn btn-md m-t-30 btn-info-gradiant font-14"
             >
-              Download Now
+              Go to Biomnia
             </Link>
           </Col>
         </Row>
